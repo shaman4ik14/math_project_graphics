@@ -1,5 +1,5 @@
 """
-Program for working with graphics
+Program for working with graph
 (Give all additional and vital information)
 """
 from sympy import *
